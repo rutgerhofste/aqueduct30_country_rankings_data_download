@@ -23,13 +23,11 @@ For baseline water stress and drought risk, we used sectoral and total gross wat
 
 For riverine flood risk, gridded population is used as weights. See the main Aqueduct Floods reference for more info.
 
-
-|                        |                           |                             |                             |                            |            |   | 
-|------------------------|---------------------------|-----------------------------|-----------------------------|----------------------------|------------|---| 
-| total gross withdrawal | domestic gross withdrawal | industrial gross withdrawal | irrigation gross withdrawal | livestock gross withdrawal | population |   | 
-| Baseline Water Stress  | 1                         | 1                           | 1                           | 1                          | 1          |   | 
-| Drought Risk           | 1                         | 1                           | 1                           | 1                          | 1          |   | 
-| Riverine Flood Risk    |                           |                             |                             |                            |            | 1 | 
+| Source indicator      | Total gross withdrawal | Domestic gross withdrawal | Industrial gross withdrawal | Irrigation gross withdrawal | Livestock gross withdrawal | Population | 
+|-----------------------|------------------------|---------------------------|-----------------------------|-----------------------------|----------------------------|------------| 
+| Baseline water stress | 1                      | 1                         | 1                           | 1                           | 1                          |            | 
+| Drought risk          | 1                      | 1                         | 1                           | 1                           | 1                          |            | 
+| riverine flood risk   |                        |                           |                             |                             |                            | 1          | 
 
 
 
