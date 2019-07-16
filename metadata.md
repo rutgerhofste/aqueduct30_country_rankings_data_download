@@ -24,4 +24,15 @@ For baseline water stress and drought risk, we used sectoral and total gross wat
 For riverine flood risk, gridded population is used as weights. See the main Aqueduct Floods reference for more info.
 
 
+|                        |                           |                             |                             |                            |            |   | 
+|------------------------|---------------------------|-----------------------------|-----------------------------|----------------------------|------------|---| 
+| total gross withdrawal | domestic gross withdrawal | industrial gross withdrawal | irrigation gross withdrawal | livestock gross withdrawal | population |   | 
+| Baseline Water Stress  | 1                         | 1                           | 1                           | 1                          | 1          |   | 
+| Drought Risk           | 1                         | 1                           | 1                           | 1                          | 1          |   | 
+| Riverine Flood Risk    |                           |                             |                             |                            |            | 1 | 
 
+
+
+## Target regions
+
+Aqueduct™ data is aggregated up to two spatial units: countries and sub-national units. Sub national unites can be states, provinces, prefectures etc. depending on the country. We used GADM level 0 (country) and GADM level 1 (state/province). 
