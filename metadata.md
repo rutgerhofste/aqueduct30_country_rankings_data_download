@@ -39,7 +39,14 @@ The gridded weights and target regions are resampled to 30 arc seconds resolutio
 
 
 ## Results
-Results are on Amazon S3://wri-projects/Aqueduct30/finalData/Y2019M04D15_RH_GA_Aqueduct_Results_V01 
+CSV results are on Amazon S3://wri-projects/Aqueduct30/finalData/Y2019M04D15_RH_GA_Aqueduct_Results_V01 
+
+Other formats available here:
+[Excel (.xslx)]()
+[ArcMap (.zip)]()
+[QGIS ().zip]()
+
+
 
 
 ### Columns
