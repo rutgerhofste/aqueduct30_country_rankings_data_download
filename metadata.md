@@ -80,3 +80,13 @@ Results are on Amazon S3://wri-projects/Aqueduct30/finalData/Y2019M04D15_RH_GA_A
 
 
 
+#### Weights
+| Short    | Full |
+|-------------|-----|
+|**tot**| Total gross withdrawal|  
+|**dom**| Domestic gross withdrawal|  
+|**ind**| Industrial gross withdrawal|  
+|**irr**| Irrigation gross withdrawal|  
+|**liv**| Livestock gross withdrawal|  
+|**pop**| Population|  
+|**one**| Ones, i.e. no weights |  
