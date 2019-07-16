@@ -52,20 +52,20 @@ Results are on Amazon S3://wri-projects/Aqueduct30/finalData/Y2019M04D15_RH_GA_A
 | iso_n3 | integer | ISO numerical code for country |
 | primary | boolean | Primary Countrt i.e. UN member. | 
 | name_0 | string | GADM level 0 name. Name of national level |
-| indicator_name| string | Indicator name. Corresponds to Aqueduct 3.0 indicator names. See table below
-                   "weight",
-                   "score",
-                   "score_ranked",
-                   "cat",
-                   "label",
-                   "sum_weights",
-                   "sum_weighted_indicator",
-                   "count_valid",
-                   "fraction_valid",
-                   "valid_hybas6",                   
-                   "un_region",
-                   "wb_region",
-                   "population_2019_million"
+| indicator_name| string | Indicator name. Corresponds to Aqueduct 3.0 indicator names. See table below |
+| weight | string | Weighting scheme used, see below |
+| score | float | score for indicator, weight combination. Values 0-5 |
+| score_ranked | integer | Score ranked, ascending |
+| cat | integer | Category, can be used for visualizing the data |
+| label | string | Label of category, depends on indicator. Same labels as in Aqueduct 3.0 Water Risk Atlas |
+| sum_weights | float |  Sum of the weights (tot, ind etc.). Result of zonal statistics |
+| sum_weighted_indicator | float | Sum of the weights * indicator scores. Result of zonal statistics |
+| count_valid" | float | number of valid pixels. Valid if weight and indicator score are valid |
+| fraction_valid | float | fraction of geometry with valid pixels. Used to mask out invalid geometries |
+| valid_hybas6| boolean | True if hydrology is valid, false otherwise |
+| un_region | string | name of UN region |
+| wb_region | string | name of World Bank region |
+| population_2019_million | float | Country population according to UN in 2019 |
 
 
 #### Indicators
