@@ -27,7 +27,7 @@ For riverine flood risk, gridded population is used as weights. See the main Aqu
 |-----------------------|------------------------|---------------------------|-----------------------------|-----------------------------|----------------------------|------------| 
 | Baseline water stress | 1                      | 1                         | 1                           | 1                           | 1                          |            | 
 | Drought risk          | 1                      | 1                         | 1                           | 1                           | 1                          |            | 
-| riverine flood risk   |                        |                           |                             |                             |                            | 1          | 
+| Riverine flood risk   |                        |                           |                             |                             |                            | 1          | 
 
 
 
