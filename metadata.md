@@ -44,6 +44,30 @@ Results are on Amazon S3://wri-projects/Aqueduct30/finalData/Y2019M04D15_RH_GA_A
 
 ### Columns
 
+| Column name | type | Description |
+| --- | --- | ---|
+| gid_1 | string | GADM level 1 unique identifier for sub national level. Only available in province rankings|
+| name_1 |string | GADM level 1 name. Name of the sub-national level. State in the US, Province in the Netherlands etc. |
+| iso_a3 | string| ISO alphabetical code for country |
+| iso_n3 | integer | ISO numerical code for country |
+| primary | boolean | Primary Countrt i.e. UN member. | 
+| name_0 | string | GADM level 0 name. Name of national level |
+
+
+                   "indicator_name",
+                   "weight",
+                   "score",
+                   "score_ranked",
+                   "cat",
+                   "label",
+                   "sum_weights",
+                   "sum_weighted_indicator",
+                   "count_valid",
+                   "fraction_valid",
+                   "valid_hybas6",                   
+                   "un_region",
+                   "wb_region",
+                   "population_2019_million"
 
 
 
