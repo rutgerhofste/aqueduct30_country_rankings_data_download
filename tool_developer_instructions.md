@@ -11,7 +11,7 @@ Consider using [mapshaper](https://mapshaper.org/) to simplify the geometries fo
 Please visualize using fill and stroke colors based on the values below:
 
 | cat| hex |
-| --- | --- | --- | --- | 
+| --- | --- | 
 | 0|#FFFF99 |
 |1|#FFE600 |
 |2|#FF9900 |
