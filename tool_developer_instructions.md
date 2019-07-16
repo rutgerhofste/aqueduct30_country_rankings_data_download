@@ -10,12 +10,12 @@ Consider using [mapshaper](https://mapshaper.org/) to simplify the geometries fo
 
 Please visualize using fill and stroke colors based on the values below:
 
-| cat| hex |
+#### Baseline water stress
+|label| hex |
 | --- | --- | 
-| 0|#FFFF99 |
-|1|#FFE600 |
-|2|#FF9900 |
-|3|#FF1900 |
-|4|#990000 |
-|-1|#808080 |
+| 1. Low (<10%)|#FFFF99 |
+|2. Low to medium (10-20%)|#FFE600 |
+|3. Medium to high (20-40%)|#FF9900 |
+|4. High (40-80%)|#FF1900 |
+|5. Extremely high (>80%)|#990000 |
 |None|#4E4E4E |
