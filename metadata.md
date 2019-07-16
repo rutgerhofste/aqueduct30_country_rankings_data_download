@@ -11,7 +11,7 @@ In addition, the results are simplified to resonate better with the users. The m
 
 ## Source indicators
 
-See Aqueduct 3.0 metadata for a description of these indicators and the methodology.
+See Aqueduct 3.0 [metadata](https://github.com/wri/aqueduct30_data_download/blob/master/metadata.md) for a description of these indicators and the methodology.
 
 Baseline water stress
 Drought risk
