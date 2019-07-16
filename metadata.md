@@ -52,9 +52,7 @@ Results are on Amazon S3://wri-projects/Aqueduct30/finalData/Y2019M04D15_RH_GA_A
 | iso_n3 | integer | ISO numerical code for country |
 | primary | boolean | Primary Countrt i.e. UN member. | 
 | name_0 | string | GADM level 0 name. Name of national level |
-
-
-                   "indicator_name",
+| indicator_name| string | Indicator name. Corresponds to Aqueduct 3.0 indicator names. See table below
                    "weight",
                    "score",
                    "score_ranked",
@@ -70,7 +68,15 @@ Results are on Amazon S3://wri-projects/Aqueduct30/finalData/Y2019M04D15_RH_GA_A
                    "population_2019_million"
 
 
-
+#### Indicators
+| Short    | Full |
+|-------------|-----|
+|**bws**| Baseline water stress|  
+|**bwd**| Baseline water depletion|  
+|**iav**| Interannual variability|  
+|**sev**| Seasonal variability|  
+|**rfr**| Riverine flood risk|  
+|**drr**| Drought risk|
 
 
 
