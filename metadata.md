@@ -39,9 +39,9 @@ The gridded weights and target regions are resampled to 30 arc seconds resolutio
 
 
 ## Results
-Download xlsx [here](https://wri-projects.s3.amazonaws.com/Aqueduct30/finalData/Y2019M04D15_RH_GA_Aqueduct_Results_Clean_V01/Y2019M07D17_RH_GA_Aqueduct30_Rankings_V01.xlsx)
+[Download xlsx](https://wri-projects.s3.amazonaws.com/Aqueduct30/finalData/Y2019M04D15_RH_GA_Aqueduct_Results_Clean_V01/Y2019M07D17_RH_GA_Aqueduct30_Rankings_V01.xlsx)
 
-Other formats (for analysts or tool developers):
+Other formats (for analysts or tool developers):  
 S3://wri-projects/Aqueduct30/finalData/Y2019M04D15_RH_GA_Aqueduct_Results_V01 
 
 direct links (version 05):
