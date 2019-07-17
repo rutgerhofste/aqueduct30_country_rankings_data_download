@@ -1,3 +1,7 @@
+### Tabular data
+
+see [metadata](https://github.com/rutgerhofste/aqueduct30_country_rankings_data_download/blob/master/metadata.md)
+
 ### Geometries
 
 Use [GADM version 3.6](https://gadm.org/download_world.html) level 0 for country ranking. Join key: GID_0  
