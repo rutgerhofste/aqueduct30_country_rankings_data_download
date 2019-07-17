@@ -44,7 +44,7 @@ S3://wri-projects/Aqueduct30/finalData/Y2019M04D15_RH_GA_Aqueduct_Results_V01
 
 Encoding: UTF-8  
 
-Please note that the default filter view is for baseline water stress (bws) with the total withdrawal as gridded weights. To change the filter, clear **both** filters and select a new indicator / weight combination. See the gridded weights table above for valid combinations of indicator and weights. 
+Please note that the default filter view is for baseline water stress (bws) with the total withdrawal (tot) as gridded weights. To change the filter, clear **both** filters by clicking the dropdown and "clear". After no filter is applied, select a new indicator / weight combination. See the gridded weights table above for valid combinations of indicator and weights. As a final step, you can sort the table by clicking "score_ranked" and sort ascending.
 
 ![Clear indicator](https://github.com/rutgerhofste/aqueduct30_country_rankings_data_download/raw/master/images/clear_indicator_v01.JPG)
 ![Clear weight](https://github.com/rutgerhofste/aqueduct30_country_rankings_data_download/raw/master/images/clear_weight.JPG)
