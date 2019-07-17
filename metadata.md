@@ -39,14 +39,14 @@ The gridded weights and target regions are resampled to 30 arc seconds resolutio
 
 
 ## Results
-Download [here](https://wri-projects.s3.amazonaws.com/Aqueduct30/finalData/Y2019M04D15_RH_GA_Aqueduct_Results_Clean_V01/Y2019M07D17_RH_GA_Aqueduct30_Rankings_V01.xlsx)
+Download xlsx [here](https://wri-projects.s3.amazonaws.com/Aqueduct30/finalData/Y2019M04D15_RH_GA_Aqueduct_Results_Clean_V01/Y2019M07D17_RH_GA_Aqueduct30_Rankings_V01.xlsx)
 
-csv files (raw data) from:
+Other formats (for analysts or tool developers):
 S3://wri-projects/Aqueduct30/finalData/Y2019M04D15_RH_GA_Aqueduct_Results_V01 
 
 direct links (version 05):
 [country](https://wri-projects.s3.amazonaws.com/Aqueduct30/finalData/Y2019M04D15_RH_GA_Aqueduct_Results_V01/output_V05/Y2019M04D15_RH_GA_Aqueduct_Results_V01_country_V05.csv)  
-[province](https://wri-projects.s3.amazonaws.com/Aqueduct30/finalData/Y2019M04D15_RH_GA_Aqueduct_Results_V01/output_V05/Y2019M04D15_RH_GA_Aqueduct_Results_V01_province_V05.csv)
+[province](https://wri-projects.s3.amazonaws.com/Aqueduct30/finalData/Y2019M04D15_RH_GA_Aqueduct_Results_V01/output_V05/Y2019M04D15_RH_GA_Aqueduct_Results_V01_province_V05.csv)  
 
 
 Encoding: UTF-8  
