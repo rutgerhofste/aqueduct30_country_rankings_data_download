@@ -99,3 +99,10 @@ Please note that the default filter view is for baseline water stress (bws) with
 |**liv**| Livestock gross withdrawal|  
 |**pop**| Population|  
 |**one**| Ones, i.e. no weights |  
+
+## Known caveats
+
+In the province rankings, the geometry for Magallanes y Antártica Chilena is split into two due to the maximum number of vertices in Google Earth Engine. You can use either one.
+
+
+
