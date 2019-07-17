@@ -71,7 +71,7 @@ Please note that the default filter view is for baseline water stress (bws) with
 | name_1 |string | GADM level 1 name. Name of the sub-national level. State in the US, Province in the Netherlands etc. |
 | iso_a3 | string| ISO alphabetical code for country |
 | iso_n3 | integer | ISO numerical code for country |
-| primary | boolean | Primary Countrt i.e. UN member. | 
+| primary | boolean | Primary Country i.e. UN member. | 
 | name_0 | string | GADM level 0 name. Name of national level |
 | indicator_name| string | Indicator name. Corresponds to Aqueduct 3.0 indicator names. See table below |
 | weight | string | Weighting scheme used, see below |
