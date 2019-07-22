@@ -21,7 +21,14 @@ The most important columns:
 |score_ranked | water stress scores ranked from 1 (highest water stress score) to 165 (lowest water stress score) |
 | label | interpretation of the water stress score. |  
 
-A full list of all columns can be found below. 
+A full list of all column names can be found below. 
+
+The results at a country level will look like this
+
+![country_rankings](https://github.com/rutgerhofste/aqueduct30_country_rankings_data_download/raw/master/images/country_rankings.JPG)
+
+There are 17 extremely high water stressed countries and 27 high stressed countries. 
+
 
 Next, filtering.  
 You can use the arrows at each columns to filter and sort the data. For example, in the province rankings, you can view a sigle country by clicking on the country name column (name_0) 
