@@ -19,7 +19,8 @@ The most important columns:
 | name_0 | country name |
 | score | water stress score [0-5] | 
 |score_ranked | water stress scores ranked from 1 (highest water stress score) to 165 (lowest water stress score) |
-| label | interpretation of the water stress score. |
+| label | interpretation of the water stress score. |  
+
 A full list of all columns can be found below. 
 
 Next, filtering.  
