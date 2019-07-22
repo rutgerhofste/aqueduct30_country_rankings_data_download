@@ -14,7 +14,7 @@ When you open the file, you will see multiple sheets. Click the sheets to displa
 
 The most important columns:
 | Column name | Description |
-|---|---|
+| --- | --- |
 | name_0 | country name |
 | score | water stress score [0-5] | 
 |score_ranked | water stress scores ranked from 1 (highest water stress score) to 165 (lowest water stress score) |
