@@ -4,7 +4,6 @@
 
 
 
-
 The updated country and province data builds on the previous version: 
 [“a weighted aggregation of spatially distinct hydrological indicators”](https://wriorg.s3.amazonaws.com/s3fs-public/aqueduct_coutnry_rankings_010914.pdf) with updated data, updated weights and different spatial units.
 In addition, the results are simplified to resonate better with the users. The method has three input datasets:
