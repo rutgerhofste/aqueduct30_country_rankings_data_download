@@ -1,6 +1,8 @@
-# Aqueduct 3.0 Country and Province Rankings
-** EMBARGO 6th August 2019 at 0601 cet/0501 bst **   
-2019 update based on Aqueduct 3.0 data
+# Aqueduct 3.0 Country and Province Rankings  
+2019 update based on Aqueduct 3.0 data  
+# ** EMBARGO 6th August 2019 at 0601 cet/0501 bst **   
+
+
 
 
 The updated country and province data builds on the previous version: 
