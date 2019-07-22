@@ -12,7 +12,8 @@ When you open the file, you will see multiple sheets. Click the sheets to displa
 
 ![sheets](https://github.com/rutgerhofste/aqueduct30_country_rankings_data_download/raw/master/images/tabs.JPG)
 
-The most important columns:
+The most important columns:  
+
 | Column name | Description |
 | ------------- | ------------- |
 | name_0 | country name |
