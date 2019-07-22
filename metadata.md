@@ -2,6 +2,44 @@
 2019 update based on Aqueduct 3.0 data  
  ** EMBARGO 6th August 2019 at 0601 cet/0501 bst **   
 
+## Results
+[Download xlsx](https://wri-projects.s3.amazonaws.com/Aqueduct30/finalData/Y2019M04D15_RH_GA_Aqueduct_Results_Clean_V01/Y2019M07D17_RH_GA_Aqueduct30_Rankings_V01.xlsx)
+
+## Instructions
+Click the download excel link above and open the excel file. Use the sheets to display country or province results. 
+
+![sheets](https://github.com/rutgerhofste/aqueduct30_country_rankings_data_download/raw/master/images/tabs.JPG)
+
+The most important columns:
+| Column name  Description |
+| --- | ---|
+| name_0 | country name |
+| score | water stress score [0-5] | 
+|score_ranked | water stress scores ranked from 1 (highest water stress score) to 165 (lowest water stress score)
+| label | interpretation of the water stress score. |
+
+Please note that the default filter view is for baseline water stress (bws) with the total withdrawal (tot) as gridded weights. To change the filter, clear **both** filters by clicking the dropdown and "clear". After no filter is applied, select a new indicator / weight combination. See the gridded weights table above for valid combinations of indicator and weights. As a final step, you can sort the table by clicking "score_ranked" and "Sort Smallest to Largest"
+
+![Clear indicator](https://github.com/rutgerhofste/aqueduct30_country_rankings_data_download/raw/master/images/clear_indicator_v01.JPG)
+![Clear weight](https://github.com/rutgerhofste/aqueduct30_country_rankings_data_download/raw/master/images/clear_weight.JPG)
+
+
+
+## Baseline water stress
+
+Baseline water stress measures the ratio of total water
+withdrawals to available renewable surface and groundwater
+supplies. Water withdrawals include domestic,
+industrial, irrigation, and livestock consumptive and
+nonconsumptive uses. Available renewable water supplies
+include the impact of upstream consumptive water
+users and large dams on downstream water availability.
+Higher values indicate more competition among
+users.
+
+For more information, ask the Aqueduct team. The methodology document is almost ready. 
+
+
 
 
 The updated country and province data builds on the previous version: 
@@ -40,23 +78,7 @@ Aqueduct™ data is aggregated up to two spatial units: countries and sub-nation
 The gridded weights and target regions are resampled to 30 arc seconds resolution.
 
 
-## Results
-[Download xlsx](https://wri-projects.s3.amazonaws.com/Aqueduct30/finalData/Y2019M04D15_RH_GA_Aqueduct_Results_Clean_V01/Y2019M07D17_RH_GA_Aqueduct30_Rankings_V01.xlsx)
 
-Other formats (for analysts or tool developers):  
-S3://wri-projects/Aqueduct30/finalData/Y2019M04D15_RH_GA_Aqueduct_Results_V01 
-
-direct links (version 05):  
-[country  csv file for analysts or developers](https://wri-projects.s3.amazonaws.com/Aqueduct30/finalData/Y2019M04D15_RH_GA_Aqueduct_Results_V01/output_V05/Y2019M04D15_RH_GA_Aqueduct_Results_V01_country_V05.csv)   
-[province csv file for analysts or developers](https://wri-projects.s3.amazonaws.com/Aqueduct30/finalData/Y2019M04D15_RH_GA_Aqueduct_Results_V01/output_V05/Y2019M04D15_RH_GA_Aqueduct_Results_V01_province_V05.csv)  
-
-
-Encoding: UTF-8  
-
-Please note that the default filter view is for baseline water stress (bws) with the total withdrawal (tot) as gridded weights. To change the filter, clear **both** filters by clicking the dropdown and "clear". After no filter is applied, select a new indicator / weight combination. See the gridded weights table above for valid combinations of indicator and weights. As a final step, you can sort the table by clicking "score_ranked" and "Sort Smallest to Largest"
-
-![Clear indicator](https://github.com/rutgerhofste/aqueduct30_country_rankings_data_download/raw/master/images/clear_indicator_v01.JPG)
-![Clear weight](https://github.com/rutgerhofste/aqueduct30_country_rankings_data_download/raw/master/images/clear_weight.JPG)
 
 
 
@@ -118,5 +140,14 @@ Please note that the default filter view is for baseline water stress (bws) with
 
 In the province rankings, the geometry for Magallanes y Antártica Chilena is split into two due to the maximum number of vertices in Google Earth Engine. You can use either one.
 
+## Other formats:
+for analysts or tool developers:  
+S3://wri-projects/Aqueduct30/finalData/Y2019M04D15_RH_GA_Aqueduct_Results_V01 
 
+direct links (version 05):  
+[country  csv file for analysts or developers](https://wri-projects.s3.amazonaws.com/Aqueduct30/finalData/Y2019M04D15_RH_GA_Aqueduct_Results_V01/output_V05/Y2019M04D15_RH_GA_Aqueduct_Results_V01_country_V05.csv)   
+[province csv file for analysts or developers](https://wri-projects.s3.amazonaws.com/Aqueduct30/finalData/Y2019M04D15_RH_GA_Aqueduct_Results_V01/output_V05/Y2019M04D15_RH_GA_Aqueduct_Results_V01_province_V05.csv)  
+
+
+Encoding: UTF-8  
 
