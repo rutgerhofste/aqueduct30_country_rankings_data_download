@@ -6,17 +6,34 @@
 [Download xlsx](https://wri-projects.s3.amazonaws.com/Aqueduct30/finalData/Y2019M04D15_RH_GA_Aqueduct_Results_Clean_V01/Y2019M07D17_RH_GA_Aqueduct30_Rankings_V01.xlsx)
 
 ## Instructions
-Click the download excel link above and open the excel file. Use the sheets to display country or province results. 
+If you haven't opened the excel file, click the download excel link above. 
+
+When you open the file, you will see multiple sheets. Click the sheets to display country or province results. 
 
 ![sheets](https://github.com/rutgerhofste/aqueduct30_country_rankings_data_download/raw/master/images/tabs.JPG)
 
-The most important columns:
-| Column name  Description |
-| --- | ---|
+The most important columns:  
+
+| Column name | Description |
+| ------------- | ------------- |
 | name_0 | country name |
 | score | water stress score [0-5] | 
-|score_ranked | water stress scores ranked from 1 (highest water stress score) to 165 (lowest water stress score)
-| label | interpretation of the water stress score. |
+|score_ranked | water stress scores ranked from 1 (highest water stress score) to 165 (lowest water stress score) |
+| label | interpretation of the water stress score. |  
+
+A full list of all column names can be found below. 
+
+The results at a country level will look like this
+
+![country_rankings](https://github.com/rutgerhofste/aqueduct30_country_rankings_data_download/raw/master/images/country_rankings.JPG)
+
+There are 17 extremely high water stressed countries and 27 high stressed countries. 
+
+
+Next, filtering.  
+You can use the arrows at each columns to filter and sort the data. For example, in the province rankings, you can view a sigle country by clicking on the country name column (name_0) 
+
+![sheets](https://github.com/rutgerhofste/aqueduct30_country_rankings_data_download/raw/master/images/filters.JPG)
 
 Please note that the default filter view is for baseline water stress (bws) with the total withdrawal (tot) as gridded weights. To change the filter, clear **both** filters by clicking the dropdown and "clear". After no filter is applied, select a new indicator / weight combination. See the gridded weights table above for valid combinations of indicator and weights. As a final step, you can sort the table by clicking "score_ranked" and "Sort Smallest to Largest"
 
