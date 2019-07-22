@@ -13,11 +13,11 @@ When you open the file, you will see multiple sheets. Click the sheets to displa
 ![sheets](https://github.com/rutgerhofste/aqueduct30_country_rankings_data_download/raw/master/images/tabs.JPG)
 
 The most important columns:
-| Column name| Description |
+| Column name | Description |
 |---|---|
 | name_0 | country name |
 | score | water stress score [0-5] | 
-|score_ranked | water stress scores ranked from 1 (highest water stress score) to 165 (lowest water stress score)
+|score_ranked | water stress scores ranked from 1 (highest water stress score) to 165 (lowest water stress score) |
 | label | interpretation of the water stress score. |
 A full list of all columns can be found below. 
 
