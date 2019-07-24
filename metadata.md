@@ -160,9 +160,9 @@ In the province rankings, the geometry for Magallanes y Antártica Chilena is sp
 for analysts or tool developers:  
 S3://wri-projects/Aqueduct30/finalData/Y2019M04D15_RH_GA_Aqueduct_Results_V01 
 
-direct links (version 05):  
-[country  csv file for analysts or developers](https://wri-projects.s3.amazonaws.com/Aqueduct30/finalData/Y2019M04D15_RH_GA_Aqueduct_Results_V01/output_V05/Y2019M04D15_RH_GA_Aqueduct_Results_V01_country_V05.csv)   
-[province csv file for analysts or developers](https://wri-projects.s3.amazonaws.com/Aqueduct30/finalData/Y2019M04D15_RH_GA_Aqueduct_Results_V01/output_V05/Y2019M04D15_RH_GA_Aqueduct_Results_V01_province_V05.csv)  
+direct links (version 06):  
+[country  csv file for analysts or developers](https://wri-projects.s3.amazonaws.com/Aqueduct30/finalData/Y2019M04D15_RH_GA_Aqueduct_Results_V01/output_V06/Y2019M04D15_RH_GA_Aqueduct_Results_V01_country_V06.csv)   
+[province csv file for analysts or developers](https://wri-projects.s3.amazonaws.com/Aqueduct30/finalData/Y2019M04D15_RH_GA_Aqueduct_Results_V01/output_V06/Y2019M04D15_RH_GA_Aqueduct_Results_V01_province_V06.csv)  
 
 
 Encoding: UTF-8  
