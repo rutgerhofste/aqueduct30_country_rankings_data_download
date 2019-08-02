@@ -3,7 +3,9 @@
  ** EMBARGO 6th August 2019 at 0601 cet/0501 bst **   
 
 ## Results
-[Download xlsx](https://wri-projects.s3.amazonaws.com/Aqueduct30/finalData/Y2019M04D15_RH_GA_Aqueduct_Results_Clean_V01/Y2019M07D17_RH_GA_Aqueduct30_Rankings_V01.xlsx)
+[Download xlsx](https://wri-projects.s3.amazonaws.com/Aqueduct30/finalData/Y2019M04D15_RH_GA_Aqueduct_Results_Clean_V01/Y2019M07D17_RH_GA_Aqueduct30_Rankings_V01.xlsx)  
+
+[Download GIS data](http://wri-projects.s3.amazonaws.com/Aqueduct30/finalData/Y2019M08D01_RH_GA_Country_Rankings_Map_V01.zip)
 
 ## Instructions
 If you haven't opened the excel file, click the download excel link above. 
